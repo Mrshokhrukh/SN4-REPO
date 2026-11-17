@@ -3,3 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+
+.typing{
+    display: inline-block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+}
